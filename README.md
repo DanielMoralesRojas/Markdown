@@ -1,25 +1,32 @@
 # Markdown
+
 ejemplo de uso del markdown
 
-##Documentacion
+## Documentacion
+
 Esta es la documentacion de mi proyecto
 
 :banana:
 
-##Sub-sub apartado
+## Sub-sub apartado
 
 -Primero
 -Segundo
 -Tercero
 
-Texto en **negrita** y en **cursiva**
+Texto en **negrita** y en *cursiva*.
 
-Typora: Editor WYSIWYG de markdown
+Typora: Editor WYSIWYG de Markdown.
 
-````bash
-$sudo su
+```bash
+$ sudo su
+# cd /root
+# nano loquesea
+```
 
-![Mi imagen] (images/foto.jpg)
+![Mi imagen](images/foto.jpg)
 1. Primero
 2. Segundo
 3. Tercero
+
+Enlace a [Google](https://www.google.com).
