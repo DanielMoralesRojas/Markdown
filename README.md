@@ -23,6 +23,7 @@ Typora: Editor WYSIWYG de Markdown.
 $ sudo su
 # cd /root
 # nano loquesea
+$ dani eres malisimo al pokemon
 ```
 
 ![Mi imagen](images/foto.jpg)
