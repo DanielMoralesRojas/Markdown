@@ -7,12 +7,13 @@ ejemplo de uso del markdown
 Esta es la documentacion de mi proyecto
 
 :banana:
+:orange:
 
 ## Sub-sub apartado
 
 -Primero
 -Segundo
--Tercero
+
 
 Texto en **negrita** y en *cursiva*.
 
