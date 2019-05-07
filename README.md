@@ -1,10 +1,15 @@
-# Markdown
+# CACTI
 
-ejemplo de uso del markdown
+Instalacion de los servicios.
 
-## Documentacion
+## Instalacion LAMP
 
-Esta es la documentacion de mi proyecto
+```bash
+sudo apt-get update
+sudo apt-get install apache2
+sudo apt-get install mysql-server
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
+```
 
 :banana:
 :orange:
@@ -23,7 +28,6 @@ Typora: Editor WYSIWYG de Markdown.
 $ sudo su
 # cd /root
 # nano loquesea
-$ dani eres malisimo al pokemon
 ```
 
 ![Mi imagen](images/foto.jpg)
